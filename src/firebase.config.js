@@ -1,5 +1,5 @@
 export default {
-  apiKey: 'AIzaSyAp-QCJK7e506GiIubkx6OwOyXe6jHqU7c',
-  authDomain: 'fir-test-2a949.firebaseapp.com',
-  databaseURL: 'https://fir-test-2a949.firebaseio.com',
+  apiKey: 'AIzaSyBiPTmTR9mbAX55MPOhOCovPZt4hOpM2QM',
+  authDomain: 'cool-test-29381.firebaseapp.com',
+  databaseURL: 'https://cool-test-29381.firebaseio.com/',
 }
