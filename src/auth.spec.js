@@ -2,7 +2,7 @@ import should from 'should'
 import { authWithUid } from './firebase.admin'
 
 describe('Authenticated firebase', function () {
-  this.timeout(5000);
+  //this.timeout(4000);
   //describe('Authenticated firebase', () => {
   let authedFirebase
   const UID = 'IJUWu0BwD2VVypLMe7eb3ODL6Qf1'
